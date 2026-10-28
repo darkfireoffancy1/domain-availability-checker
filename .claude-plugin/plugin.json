@@ -1,0 +1,4 @@
+{
+  "name": "domain-availability-checker",
+  "description": "Batch-check domain registration status, Cloudflare registrability, and current Cloudflare pricing without purchasing domains."
+}
